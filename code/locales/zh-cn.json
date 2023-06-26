@@ -1,0 +1,10 @@
+{
+"anonymous.example_langpack.name": "用于示范扩展的语言包",
+"anonymous.example_langpack.description": "只是一个语言包。",
+    
+"anonymous.example.name": "匿名示范扩展",
+"anonymous.example.description": "只是一个示范扩展。",
+
+"anonymous.example.category": "匿名示范扩展",
+"anonymous.example.category.string": "字符串 [VALUE]"
+}
