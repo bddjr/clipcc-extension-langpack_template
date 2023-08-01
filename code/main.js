@@ -1,1 +1,1 @@
-module.exports=class extends self["ClipCCExtension"].Extension{}
+module.exports=class extends self.ClipCCExtension.Extension{}
